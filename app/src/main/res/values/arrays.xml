@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Arrays for the navigation drawer menu item titles-->
+    <string-array name="menu_item_titles">
+        <item>@string/menu_item_title_1</item>
+        <item>@string/menu_item_title_2</item>
+        <item>@string/menu_item_title_3</item>
+    </string-array>
+
+</resources>

@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">SampleNavigationDrawer</string>
+
+    <!--Menu titles-->
+    <string name="menu_item_title_1">First item</string>
+    <string name="menu_item_title_2">Second item</string>
+    <string name="menu_item_title_3">Third item</string>
+
 </resources>
